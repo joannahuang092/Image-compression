@@ -1,1 +1,1 @@
-### compress a bmp file
+compress a bmp file
